@@ -7,7 +7,8 @@
 /**
  * This function calculates area and perimeter of rectangle.
  */
-"use strict"
+'use strict'
+
 function calculate() {
   // input
   const base = parseInt(document.getElementById("base").value)
